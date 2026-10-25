@@ -8,9 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0859-buddy-strings](https://github.com/Siamheil/algorithm-armory/tree/master/0859-buddy-strings) |
 | [1598-crawler-log-folder](https://github.com/Siamheil/algorithm-armory/tree/master/1598-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
 | [1598-crawler-log-folder](https://github.com/Siamheil/algorithm-armory/tree/master/1598-crawler-log-folder) |
+## Hash Table
+|  |
+| ------- |
+| [0859-buddy-strings](https://github.com/Siamheil/algorithm-armory/tree/master/0859-buddy-strings) |
 <!---LeetCode Topics End-->
