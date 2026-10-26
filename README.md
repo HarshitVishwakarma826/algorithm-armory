@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-buddy-strings](https://github.com/Siamheil/algorithm-armory/tree/master/0859-buddy-strings) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siamheil/algorithm-armory/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Siamheil/algorithm-armory/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Counting
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0885-spiral-matrix-iii](https://github.com/Siamheil/algorithm-armory/tree/master/0885-spiral-matrix-iii) |
+## Linked List
+|  |
+| ------- |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
