@@ -8,11 +8,12 @@ public:
             if(targetSum==root->val){
                 ans.push_back(path);
             }
+            path.pop_back();
             return;
         }
         solve(root->left,targetSum-root->val,path);
-        path.pop_back();
         solve(root->right,targetSum-root->val,path);
+        path.pop_back();
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         if(!root) return {};
