@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-buddy-strings](https://github.com/Siamheil/algorithm-armory/tree/master/0859-buddy-strings) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Siamheil/algorithm-armory/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/Siamheil/algorithm-armory/tree/master/1598-crawler-log-folder) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siamheil/algorithm-armory/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Siamheil/algorithm-armory/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Stack
 |  |
 | ------- |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Siamheil/algorithm-armory/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/Siamheil/algorithm-armory/tree/master/1598-crawler-log-folder) |
 ## Hash Table
 |  |
