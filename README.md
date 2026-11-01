@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0885-spiral-matrix-iii](https://github.com/Siamheil/algorithm-armory/tree/master/0885-spiral-matrix-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Siamheil/algorithm-armory/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1598-crawler-log-folder](https://github.com/Siamheil/algorithm-armory/tree/master/1598-crawler-log-folder) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2906-construct-product-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/2906-construct-product-matrix) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Siamheil/algorithm-armory/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/Siamheil/algorithm-armory/tree/master/1598-crawler-log-folder) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siamheil/algorithm-armory/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Siamheil/algorithm-armory/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Stack
 |  |
@@ -154,12 +156,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Siamheil/algorithm-armory/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Siamheil/algorithm-armory/tree/master/0692-top-k-frequent-words) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Siamheil/algorithm-armory/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Siamheil/algorithm-armory/tree/master/0692-top-k-frequent-words) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -170,9 +174,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Siamheil/algorithm-armory/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Siamheil/algorithm-armory/tree/master/0347-top-k-frequent-elements) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
