@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/Siamheil/algorithm-armory/tree/master/0817-linked-list-components) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Tree
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Siamheil/algorithm-armory/tree/master/0334-increasing-triplet-subsequence) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
