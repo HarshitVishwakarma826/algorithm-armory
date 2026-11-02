@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Siamheil/algorithm-armory/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0556-next-greater-element-iii](https://github.com/Siamheil/algorithm-armory/tree/master/0556-next-greater-element-iii) |
+| [0738-monotone-increasing-digits](https://github.com/Siamheil/algorithm-armory/tree/master/0738-monotone-increasing-digits) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Siamheil/algorithm-armory/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Siamheil/algorithm-armory/tree/master/2761-prime-pairs-with-target-sum) |
 ## Greedy
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Siamheil/algorithm-armory/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Siamheil/algorithm-armory/tree/master/0402-remove-k-digits) |
+| [0738-monotone-increasing-digits](https://github.com/Siamheil/algorithm-armory/tree/master/0738-monotone-increasing-digits) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Siamheil/algorithm-armory/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Longest Increasing Subsequence
 |  |
