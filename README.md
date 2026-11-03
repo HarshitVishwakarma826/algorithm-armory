@@ -110,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0113-path-sum-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Siamheil/algorithm-armory/tree/master/0357-count-numbers-with-unique-digits) |
 ## Math
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Siamheil/algorithm-armory/tree/master/0263-ugly-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Siamheil/algorithm-armory/tree/master/0357-count-numbers-with-unique-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Siamheil/algorithm-armory/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0556-next-greater-element-iii](https://github.com/Siamheil/algorithm-armory/tree/master/0556-next-greater-element-iii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Siamheil/algorithm-armory/tree/master/0357-count-numbers-with-unique-digits) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Siamheil/algorithm-armory/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 ## Enumeration
 |  |
