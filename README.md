@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Siamheil/algorithm-armory/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1598-crawler-log-folder](https://github.com/Siamheil/algorithm-armory/tree/master/1598-crawler-log-folder) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Siamheil/algorithm-armory/tree/master/2206-divide-array-into-equal-pairs) |
 | [2295-replace-elements-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/2295-replace-elements-in-an-array) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Siamheil/algorithm-armory/tree/master/2761-prime-pairs-with-target-sum) |
 | [2906-construct-product-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/2906-construct-product-matrix) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siamheil/algorithm-armory/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Siamheil/algorithm-armory/tree/master/1796-second-largest-digit-in-a-string) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Siamheil/algorithm-armory/tree/master/2206-divide-array-into-equal-pairs) |
 | [2295-replace-elements-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/2295-replace-elements-in-an-array) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Siamheil/algorithm-armory/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Counting
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Siamheil/algorithm-armory/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Siamheil/algorithm-armory/tree/master/0692-top-k-frequent-words) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siamheil/algorithm-armory/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Siamheil/algorithm-armory/tree/master/2206-divide-array-into-equal-pairs) |
 | [2531-make-number-of-distinct-characters-equal](https://github.com/Siamheil/algorithm-armory/tree/master/2531-make-number-of-distinct-characters-equal) |
 ## Matrix
 |  |
@@ -229,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/0861-score-after-flipping-matrix) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Siamheil/algorithm-armory/tree/master/2206-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
