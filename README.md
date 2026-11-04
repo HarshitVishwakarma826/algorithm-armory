@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Siamheil/algorithm-armory/tree/master/0739-daily-temperatures) |
 | [0817-linked-list-components](https://github.com/Siamheil/algorithm-armory/tree/master/0817-linked-list-components) |
 | [0885-spiral-matrix-iii](https://github.com/Siamheil/algorithm-armory/tree/master/0885-spiral-matrix-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1019-next-greater-node-in-linked-list) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Siamheil/algorithm-armory/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1598-crawler-log-folder](https://github.com/Siamheil/algorithm-armory/tree/master/1598-crawler-log-folder) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Siamheil/algorithm-armory/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Siamheil/algorithm-armory/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1019-next-greater-node-in-linked-list) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Siamheil/algorithm-armory/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/Siamheil/algorithm-armory/tree/master/1598-crawler-log-folder) |
 ## Hash Table
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Siamheil/algorithm-armory/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/Siamheil/algorithm-armory/tree/master/0817-linked-list-components) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Tree
 |  |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Siamheil/algorithm-armory/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Siamheil/algorithm-armory/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1019-next-greater-node-in-linked-list) |
 ## Data Stream
 |  |
 | ------- |
