@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Siamheil/algorithm-armory/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Siamheil/algorithm-armory/tree/master/2206-divide-array-into-equal-pairs) |
+| [2270-number-of-ways-to-split-array](https://github.com/Siamheil/algorithm-armory/tree/master/2270-number-of-ways-to-split-array) |
 | [2295-replace-elements-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/2295-replace-elements-in-an-array) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Siamheil/algorithm-armory/tree/master/2761-prime-pairs-with-target-sum) |
 | [2906-construct-product-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/2906-construct-product-matrix) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Siamheil/algorithm-armory/tree/master/0238-product-of-array-except-self) |
+| [2270-number-of-ways-to-split-array](https://github.com/Siamheil/algorithm-armory/tree/master/2270-number-of-ways-to-split-array) |
 | [2906-construct-product-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/2906-construct-product-matrix) |
 ## Dynamic Programming
 |  |
