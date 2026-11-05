@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/2295-replace-elements-in-an-array) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Siamheil/algorithm-armory/tree/master/2761-prime-pairs-with-target-sum) |
 | [2906-construct-product-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/2906-construct-product-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Siamheil/algorithm-armory/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3649-number-of-perfect-pairs](https://github.com/Siamheil/algorithm-armory/tree/master/3649-number-of-perfect-pairs) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Siamheil/algorithm-armory/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0885-spiral-matrix-iii](https://github.com/Siamheil/algorithm-armory/tree/master/0885-spiral-matrix-iii) |
 | [2295-replace-elements-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/2295-replace-elements-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Siamheil/algorithm-armory/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Linked List
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Siamheil/algorithm-armory/tree/master/0031-next-permutation) |
 | [0556-next-greater-element-iii](https://github.com/Siamheil/algorithm-armory/tree/master/0556-next-greater-element-iii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Siamheil/algorithm-armory/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3649-number-of-perfect-pairs](https://github.com/Siamheil/algorithm-armory/tree/master/3649-number-of-perfect-pairs) |
 ## Prefix Sum
 |  |
