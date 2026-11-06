@@ -1,10 +1,14 @@
 class Solution {
 public:
     vector<vector<int>> sortTheStudents(vector<vector<int>>& score, int k) {
-        auto myComparator=[k](vector<int>& a,vector<int>& b){
-            return a[k]>b[k];
-        };
-        sort(score.begin(),score.end(),myComparator);
+        int n=score.size();
+        for(int i=0;i<n;i++){
+            for(int j=0;j<n-i-1;j++){
+                if(score[j][k]<score[j+1][k]){
+                    swap(score[j],score[j+1]);
+                }
+            }
+        }
         return score;
     }
 };
