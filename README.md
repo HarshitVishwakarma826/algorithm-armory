@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Siamheil/algorithm-armory/tree/master/0402-remove-k-digits) |
 | [0556-next-greater-element-iii](https://github.com/Siamheil/algorithm-armory/tree/master/0556-next-greater-element-iii) |
 | [0692-top-k-frequent-words](https://github.com/Siamheil/algorithm-armory/tree/master/0692-top-k-frequent-words) |
+| [0791-custom-sort-string](https://github.com/Siamheil/algorithm-armory/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/Siamheil/algorithm-armory/tree/master/0859-buddy-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Siamheil/algorithm-armory/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1598-crawler-log-folder](https://github.com/Siamheil/algorithm-armory/tree/master/1598-crawler-log-folder) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Siamheil/algorithm-armory/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Siamheil/algorithm-armory/tree/master/0692-top-k-frequent-words) |
+| [0791-custom-sort-string](https://github.com/Siamheil/algorithm-armory/tree/master/0791-custom-sort-string) |
 | [0817-linked-list-components](https://github.com/Siamheil/algorithm-armory/tree/master/0817-linked-list-components) |
 | [0859-buddy-strings](https://github.com/Siamheil/algorithm-armory/tree/master/0859-buddy-strings) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Siamheil/algorithm-armory/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/Siamheil/algorithm-armory/tree/master/0692-top-k-frequent-words) |
+| [0791-custom-sort-string](https://github.com/Siamheil/algorithm-armory/tree/master/0791-custom-sort-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siamheil/algorithm-armory/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Siamheil/algorithm-armory/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
