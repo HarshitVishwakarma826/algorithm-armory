@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Siamheil/algorithm-armory/tree/master/2206-divide-array-into-equal-pairs) |
 | [2270-number-of-ways-to-split-array](https://github.com/Siamheil/algorithm-armory/tree/master/2270-number-of-ways-to-split-array) |
 | [2295-replace-elements-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/2295-replace-elements-in-an-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Siamheil/algorithm-armory/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Siamheil/algorithm-armory/tree/master/2761-prime-pairs-with-target-sum) |
 | [2906-construct-product-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/2906-construct-product-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Siamheil/algorithm-armory/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/0861-score-after-flipping-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Siamheil/algorithm-armory/tree/master/0885-spiral-matrix-iii) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Siamheil/algorithm-armory/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2906-construct-product-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/2906-construct-product-matrix) |
 ## Simulation
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siamheil/algorithm-armory/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Siamheil/algorithm-armory/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Siamheil/algorithm-armory/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3649-number-of-perfect-pairs](https://github.com/Siamheil/algorithm-armory/tree/master/3649-number-of-perfect-pairs) |
 ## Heap (Priority Queue)
 |  |
