@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Siamheil/algorithm-armory/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siamheil/algorithm-armory/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/Siamheil/algorithm-armory/tree/master/0556-next-greater-element-iii) |
 | [0692-top-k-frequent-words](https://github.com/Siamheil/algorithm-armory/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Siamheil/algorithm-armory/tree/master/0791-custom-sort-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Siamheil/algorithm-armory/tree/master/0138-copy-list-with-random-pointer) |
 | [0347-top-k-frequent-elements](https://github.com/Siamheil/algorithm-armory/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siamheil/algorithm-armory/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Siamheil/algorithm-armory/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Siamheil/algorithm-armory/tree/master/0692-top-k-frequent-words) |
@@ -259,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siamheil/algorithm-armory/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Siamheil/algorithm-armory/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
