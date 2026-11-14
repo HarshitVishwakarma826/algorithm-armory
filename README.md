@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1019-next-greater-node-in-linked-list) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Siamheil/algorithm-armory/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siamheil/algorithm-armory/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/Siamheil/algorithm-armory/tree/master/1598-crawler-log-folder) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Siamheil/algorithm-armory/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0556-next-greater-element-iii](https://github.com/Siamheil/algorithm-armory/tree/master/0556-next-greater-element-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siamheil/algorithm-armory/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Siamheil/algorithm-armory/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3649-number-of-perfect-pairs](https://github.com/Siamheil/algorithm-armory/tree/master/3649-number-of-perfect-pairs) |
 ## Prefix Sum
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Siamheil/algorithm-armory/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Siamheil/algorithm-armory/tree/master/0791-custom-sort-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siamheil/algorithm-armory/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Siamheil/algorithm-armory/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Siamheil/algorithm-armory/tree/master/2545-sort-the-students-by-their-kth-score) |
