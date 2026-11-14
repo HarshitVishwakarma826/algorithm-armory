@@ -1,19 +1,16 @@
 class Solution {
 public:
-    int ans=INT_MIN;
-    void solve(TreeNode* root,vector<int>& path){
+    int ans=0;
+    void solve(TreeNode* root,int mini,int maxi){
         if(!root) return;
-        path.push_back(root->val);
-        int maxi=*max_element(path.begin(),path.end());
-        int mini=*min_element(path.begin(),path.end());
-        ans=max(maxi-mini,ans);
-        solve(root->left,path);
-        solve(root->right,path);
-        path.pop_back();
+        mini=min(mini,root->val);
+        maxi=max(maxi,root->val);
+        ans=max(ans,maxi-mini);
+        solve(root->left,mini,maxi);
+        solve(root->right,mini,maxi);
     }
     int maxAncestorDiff(TreeNode* root) {
-        vector<int>path;
-        solve(root,path);
+        solve(root,root->val,root->val);
         return ans;
     }
 };
