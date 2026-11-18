@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Siamheil/algorithm-armory/tree/master/0031-next-permutation) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Siamheil/algorithm-armory/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Siamheil/algorithm-armory/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Siamheil/algorithm-armory/tree/master/0334-increasing-triplet-subsequence) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Siamheil/algorithm-armory/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/Siamheil/algorithm-armory/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Siamheil/algorithm-armory/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0503-next-greater-element-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Siamheil/algorithm-armory/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Siamheil/algorithm-armory/tree/master/0263-ugly-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Siamheil/algorithm-armory/tree/master/0357-count-numbers-with-unique-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Siamheil/algorithm-armory/tree/master/0453-minimum-moves-to-equal-array-elements) |
