@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2295-replace-elements-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/2295-replace-elements-in-an-array) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Siamheil/algorithm-armory/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Siamheil/algorithm-armory/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Siamheil/algorithm-armory/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Siamheil/algorithm-armory/tree/master/2761-prime-pairs-with-target-sum) |
 | [2906-construct-product-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/2906-construct-product-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Siamheil/algorithm-armory/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/0861-score-after-flipping-matrix) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Siamheil/algorithm-armory/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Siamheil/algorithm-armory/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Siamheil/algorithm-armory/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Siamheil/algorithm-armory/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Siamheil/algorithm-armory/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Siamheil/algorithm-armory/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3649-number-of-perfect-pairs](https://github.com/Siamheil/algorithm-armory/tree/master/3649-number-of-perfect-pairs) |
 ## Heap (Priority Queue)
 |  |
