@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Siamheil/algorithm-armory/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0622-design-circular-queue](https://github.com/Siamheil/algorithm-armory/tree/master/0622-design-circular-queue) |
 | [0692-top-k-frequent-words](https://github.com/Siamheil/algorithm-armory/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Siamheil/algorithm-armory/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Siamheil/algorithm-armory/tree/master/0739-daily-temperatures) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Siamheil/algorithm-armory/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Siamheil/algorithm-armory/tree/master/0138-copy-list-with-random-pointer) |
 | [0382-linked-list-random-node](https://github.com/Siamheil/algorithm-armory/tree/master/0382-linked-list-random-node) |
+| [0622-design-circular-queue](https://github.com/Siamheil/algorithm-armory/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Siamheil/algorithm-armory/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/Siamheil/algorithm-armory/tree/master/0817-linked-list-components) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Siamheil/algorithm-armory/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Siamheil/algorithm-armory/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Siamheil/algorithm-armory/tree/master/0382-linked-list-random-node) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Siamheil/algorithm-armory/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
