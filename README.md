@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Siamheil/algorithm-armory/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Siamheil/algorithm-armory/tree/master/0138-copy-list-with-random-pointer) |
 | [0707-design-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Siamheil/algorithm-armory/tree/master/0725-split-linked-list-in-parts) |
@@ -288,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Siamheil/algorithm-armory/tree/master/0424-longest-repeating-character-replacement) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Siamheil/algorithm-armory/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
