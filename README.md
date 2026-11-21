@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1598-crawler-log-folder](https://github.com/Siamheil/algorithm-armory/tree/master/1598-crawler-log-folder) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Siamheil/algorithm-armory/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1670-design-front-middle-back-queue](https://github.com/Siamheil/algorithm-armory/tree/master/1670-design-front-middle-back-queue) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Siamheil/algorithm-armory/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Siamheil/algorithm-armory/tree/master/2206-divide-array-into-equal-pairs) |
 | [2270-number-of-ways-to-split-array](https://github.com/Siamheil/algorithm-armory/tree/master/2270-number-of-ways-to-split-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/Siamheil/algorithm-armory/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1670-design-front-middle-back-queue](https://github.com/Siamheil/algorithm-armory/tree/master/1670-design-front-middle-back-queue) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Siamheil/algorithm-armory/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Siamheil/algorithm-armory/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Tree
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Siamheil/algorithm-armory/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Siamheil/algorithm-armory/tree/master/0901-online-stock-span) |
+| [1670-design-front-middle-back-queue](https://github.com/Siamheil/algorithm-armory/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Siamheil/algorithm-armory/tree/master/0901-online-stock-span) |
+| [1670-design-front-middle-back-queue](https://github.com/Siamheil/algorithm-armory/tree/master/1670-design-front-middle-back-queue) |
 ## Two Pointers
 |  |
 | ------- |
@@ -311,4 +315,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Siamheil/algorithm-armory/tree/master/0622-design-circular-queue) |
+| [1670-design-front-middle-back-queue](https://github.com/Siamheil/algorithm-armory/tree/master/1670-design-front-middle-back-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/Siamheil/algorithm-armory/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
