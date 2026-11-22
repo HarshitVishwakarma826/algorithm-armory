@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Siamheil/algorithm-armory/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0402-remove-k-digits](https://github.com/Siamheil/algorithm-armory/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Siamheil/algorithm-armory/tree/master/0496-next-greater-element-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Siamheil/algorithm-armory/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Siamheil/algorithm-armory/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Siamheil/algorithm-armory/tree/master/0146-lru-cache) |
 | [0382-linked-list-random-node](https://github.com/Siamheil/algorithm-armory/tree/master/0382-linked-list-random-node) |
@@ -144,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Siamheil/algorithm-armory/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Siamheil/algorithm-armory/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Siamheil/algorithm-armory/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Backtracking
 |  |
