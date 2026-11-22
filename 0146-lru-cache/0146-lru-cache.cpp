@@ -1,39 +1,35 @@
 class LRUCache {
 public:
-    vector<pair<int,int>>arr;
-    int cap;
+    list<int>dll;
+    unordered_map<int,pair<list<int>::iterator,int>>mpp;
+    int n;
     LRUCache(int capacity) {
-        cap=capacity;
+        n=capacity;
     }
-    
+    void makerecent(int key){
+        dll.erase(mpp[key].first);
+        dll.push_front(key);
+        mpp[key].first=dll.begin();
+    }
     int get(int key) {
-        for(int i=0;i<arr.size();i++){
-            if(arr[i].first==key){
-                pair<int,int> req_pair=arr[i];
-                arr.erase(arr.begin()+i);
-                arr.push_back(req_pair);
-                return req_pair.second;
-            }
-        }
-        return -1;
+        if(mpp.find(key)==mpp.end()) return -1;
+        makerecent(key);
+        return mpp[key].second;
     }
     
     void put(int key, int value) {
-        for(int i=0;i<arr.size();i++){
-            if(arr[i].first==key){
-                arr.erase(arr.begin()+i);
-                arr.push_back({key,value});
-                return;
+        if(mpp.find(key)!=mpp.end()){
+            mpp[key].second=value;
+            makerecent(key);
+        }else {
+            dll.push_front(key);
+            mpp[key] = {dll.begin(), value};
+
+            if(dll.size() > n) {
+                int key_tobe_deleted = dll.back();
+                mpp.erase(key_tobe_deleted);
+                dll.pop_back();
             }
         }
-        if(arr.size()==cap) arr.erase(arr.begin());
-        arr.push_back({key,value});
     }
 };
-
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache* obj = new LRUCache(capacity);
- * int param_1 = obj->get(key);
- * obj->put(key,value);
- */
