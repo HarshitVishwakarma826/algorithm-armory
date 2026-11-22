@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Siamheil/algorithm-armory/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Siamheil/algorithm-armory/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/Siamheil/algorithm-armory/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siamheil/algorithm-armory/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Siamheil/algorithm-armory/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Siamheil/algorithm-armory/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Siamheil/algorithm-armory/tree/master/0146-lru-cache) |
 | [0382-linked-list-random-node](https://github.com/Siamheil/algorithm-armory/tree/master/0382-linked-list-random-node) |
 | [0622-design-circular-queue](https://github.com/Siamheil/algorithm-armory/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0707-design-linked-list) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Siamheil/algorithm-armory/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/Siamheil/algorithm-armory/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Siamheil/algorithm-armory/tree/master/0901-online-stock-span) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Siamheil/algorithm-armory/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/Siamheil/algorithm-armory/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/Siamheil/algorithm-armory/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
