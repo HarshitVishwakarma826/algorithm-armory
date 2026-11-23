@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Siamheil/algorithm-armory/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Siamheil/algorithm-armory/tree/master/0146-lru-cache) |
 | [0382-linked-list-random-node](https://github.com/Siamheil/algorithm-armory/tree/master/0382-linked-list-random-node) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/Siamheil/algorithm-armory/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Siamheil/algorithm-armory/tree/master/0725-split-linked-list-in-parts) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Siamheil/algorithm-armory/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Siamheil/algorithm-armory/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1472-design-browser-history](https://github.com/Siamheil/algorithm-armory/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/Siamheil/algorithm-armory/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
