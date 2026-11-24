@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Siamheil/algorithm-armory/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Siamheil/algorithm-armory/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Siamheil/algorithm-armory/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Siamheil/algorithm-armory/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Siamheil/algorithm-armory/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1367-linked-list-in-binary-tree) |
 ## Backtracking
