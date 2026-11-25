@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Siamheil/algorithm-armory/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Siamheil/algorithm-armory/tree/master/0739-daily-temperatures) |
+| [0897-increasing-order-search-tree](https://github.com/Siamheil/algorithm-armory/tree/master/0897-increasing-order-search-tree) |
 | [0901-online-stock-span](https://github.com/Siamheil/algorithm-armory/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/Siamheil/algorithm-armory/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1019-next-greater-node-in-linked-list) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Siamheil/algorithm-armory/tree/master/0173-binary-search-tree-iterator) |
+| [0897-increasing-order-search-tree](https://github.com/Siamheil/algorithm-armory/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Siamheil/algorithm-armory/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1367-linked-list-in-binary-tree) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0897-increasing-order-search-tree](https://github.com/Siamheil/algorithm-armory/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Siamheil/algorithm-armory/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1367-linked-list-in-binary-tree) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Siamheil/algorithm-armory/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/Siamheil/algorithm-armory/tree/master/0173-binary-search-tree-iterator) |
+| [0897-increasing-order-search-tree](https://github.com/Siamheil/algorithm-armory/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Siamheil/algorithm-armory/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1367-linked-list-in-binary-tree) |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Siamheil/algorithm-armory/tree/master/0173-binary-search-tree-iterator) |
+| [0897-increasing-order-search-tree](https://github.com/Siamheil/algorithm-armory/tree/master/0897-increasing-order-search-tree) |
 ## Iterator
 |  |
 | ------- |
