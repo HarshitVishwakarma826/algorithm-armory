@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,10 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Siamheil/algorithm-armory/tree/master/0112-path-sum) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Backtracking
 |  |
 | ------- |
