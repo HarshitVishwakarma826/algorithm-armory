@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/Siamheil/algorithm-armory/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1367-linked-list-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/Siamheil/algorithm-armory/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1367-linked-list-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/Siamheil/algorithm-armory/tree/master/0951-flip-equivalent-binary-trees) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Siamheil/algorithm-armory/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1367-linked-list-in-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1367-linked-list-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Siamheil/algorithm-armory/tree/master/0357-count-numbers-with-unique-digits) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Siamheil/algorithm-armory/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Siamheil/algorithm-armory/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Enumeration
@@ -368,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Siamheil/algorithm-armory/tree/master/0173-binary-search-tree-iterator) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Siamheil/algorithm-armory/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
