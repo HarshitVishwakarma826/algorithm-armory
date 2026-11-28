@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-score-after-flipping-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/0861-score-after-flipping-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Siamheil/algorithm-armory/tree/master/0885-spiral-matrix-iii) |
 | [0946-validate-stack-sequences](https://github.com/Siamheil/algorithm-armory/tree/master/0946-validate-stack-sequences) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Siamheil/algorithm-armory/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1019-next-greater-node-in-linked-list) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Siamheil/algorithm-armory/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siamheil/algorithm-armory/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Siamheil/algorithm-armory/tree/master/0791-custom-sort-string) |
 | [0817-linked-list-components](https://github.com/Siamheil/algorithm-armory/tree/master/0817-linked-list-components) |
 | [0859-buddy-strings](https://github.com/Siamheil/algorithm-armory/tree/master/0859-buddy-strings) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Siamheil/algorithm-armory/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Siamheil/algorithm-armory/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Siamheil/algorithm-armory/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Siamheil/algorithm-armory/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Siamheil/algorithm-armory/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Siamheil/algorithm-armory/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Siamheil/algorithm-armory/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2270-number-of-ways-to-split-array](https://github.com/Siamheil/algorithm-armory/tree/master/2270-number-of-ways-to-split-array) |
 | [2906-construct-product-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/2906-construct-product-matrix) |
 ## Dynamic Programming
