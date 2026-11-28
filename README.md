@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Siamheil/algorithm-armory/tree/master/2206-divide-array-into-equal-pairs) |
 | [2270-number-of-ways-to-split-array](https://github.com/Siamheil/algorithm-armory/tree/master/2270-number-of-ways-to-split-array) |
 | [2295-replace-elements-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/2295-replace-elements-in-an-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Siamheil/algorithm-armory/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Siamheil/algorithm-armory/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Siamheil/algorithm-armory/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Siamheil/algorithm-armory/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Siamheil/algorithm-armory/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Siamheil/algorithm-armory/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2270-number-of-ways-to-split-array](https://github.com/Siamheil/algorithm-armory/tree/master/2270-number-of-ways-to-split-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Siamheil/algorithm-armory/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2906-construct-product-matrix](https://github.com/Siamheil/algorithm-armory/tree/master/2906-construct-product-matrix) |
 ## Dynamic Programming
 |  |
@@ -355,11 +357,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Siamheil/algorithm-armory/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Siamheil/algorithm-armory/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Siamheil/algorithm-armory/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siamheil/algorithm-armory/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siamheil/algorithm-armory/tree/master/0424-longest-repeating-character-replacement) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Siamheil/algorithm-armory/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Recursion
 |  |
 | ------- |
